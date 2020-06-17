@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de preço de combustivél</string>
+    <string name="bestChoice">Sua melhor escolha é:</string>
+    <string name="ethanol">Preço do Etanol</string>
+    <string name="ethanol1">Etanol</string>
+    <string name="ethanolLabel">Preço do  litro do Etanol</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="gasolineLabel">Preço do litro da gasolina</string>
+    <string name="gasolineImage">Imagem da gasolina</string>
+    <string name="Draw" >Empate</string>
+</resources>

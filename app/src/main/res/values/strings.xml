@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Fuel Price Calculator</string>
+    <string name="ethanolLabel">Ethanol Price:</string>
+    <string name="ethanol1">Ethanol</string>
+    <string name="gasolineLabel">Gasoline price: </string>
+    <string name="gasoline">Gasoline</string>
+    <string name="bestChoice">Your best choice is: </string>
+    <string name="gasolineImage">gasolineImage</string>
+    <string name="ethanol">Ethanol</string>
+    <string name="Draw" >Draw</string>
+
+
+</resources>

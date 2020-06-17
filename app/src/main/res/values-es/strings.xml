@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora del precio del combutivel</string>
+    <string name="bestChoice">Su mejor election es?</string>
+    <string name="ethanol">Precio del etanol</string>
+    <string name="ethanol1">Etanol</string>
+    <string name="ethanolLabel">Precio de la (L)</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="gasolineLabel">Precio de la gasolina</string>
+    <string name="gasolineImage">" Imagen de Gasolina"</string>
+    <string name="Draw" >Empate</string>
+</resources>

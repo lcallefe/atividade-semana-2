@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"燃油价格计算器 "</string>
+    <string name="gasolineLabel">汽油价格</string>
+    <string name="ethanolLabel">"乙醇价格 "</string>
+    <string name="bestChoice">"你最好的选择是 "</string>
+    <string name="ethanol1">汽油</string>
+    <string name="ethanol">汽油</string>
+    <string name="gasoline">乙醇</string>
+    <string name="gasolineImage">"汽油图片 "</string>
+    <string name="Draw" >领带</string>
+</resources>
